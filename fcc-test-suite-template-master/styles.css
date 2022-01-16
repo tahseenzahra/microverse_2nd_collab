@@ -22,3 +22,17 @@ body {
 .navbar > a{
     padding: 10px;
 }
+
+#project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#project a {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
