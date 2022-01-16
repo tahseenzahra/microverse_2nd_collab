@@ -1,0 +1,12 @@
+#welcome-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
